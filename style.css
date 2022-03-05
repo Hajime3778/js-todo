@@ -1,0 +1,30 @@
+.content{
+  width: 700px;
+  margin: 0 auto;
+}
+
+.todo_area{
+  margin-top: 50px;
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px solid #d1d1d1;
+}
+
+.todo_area_title{
+  color: #4f80eb;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0px 0px 20px 0px;
+}
+
+.todo_ul{
+  padding-inline-start: 0;
+}
+
+.todo_li{
+  border-bottom: 1px solid #d1d1d1;
+  margin: 20px 0 20px 0;
+  padding: 8px 10px;
+  display: flex;
+  justify-content: space-between;
+}
